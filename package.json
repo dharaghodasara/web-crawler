@@ -1,0 +1,10 @@
+{
+  "name": "webcrawler",
+  "version": "0.0.1",
+  "description": "A web Crawler that crawles link of webpages.",
+  "dependencies": {},
+  "devDependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.56.0"
+  }
+}
